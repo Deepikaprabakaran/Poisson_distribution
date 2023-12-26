@@ -1,4 +1,4 @@
-#DATE
+#DATE:
 #EXPNO:2-Fitting Poisson  distribution
 # Aim : 
 
@@ -73,6 +73,7 @@ else:
  
 
 # Output : 
+![image](https://github.com/Deepikaprabakaran/Poisson_distribution/assets/154896682/3d37de5c-6aef-452b-9262-33c84d7f218f)
 
 
 
