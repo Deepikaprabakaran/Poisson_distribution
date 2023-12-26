@@ -73,6 +73,7 @@ else:
  
 
 # Output : 
+![image](https://github.com/Deepikaprabakaran/Poisson_distribution/assets/154896682/c294a9fc-0454-421f-8dc3-a3cfdfb08c9e)
 
 
 
